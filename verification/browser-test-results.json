@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Preset, plan entry, local generation and draft guidance",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "All output views render",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "Workflow JSON download preserves entered planning fields",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "Fit Lab handoff, empty sample placeholders, demo-specific guidance and chart",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "Auto-fit preserves exact model/parameter/export agreement",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "Changing sensing area updates derived values and exported metadata",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "Bootstrap uncertainty completes for current spectrum",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "Changing spectra clears stale fit and bootstrap",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "Existing demo spectra round-trip through CSV upload with unverified provenance",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "Sample metadata and unverified provenance persist per spectrum",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "Fitted CSV download contains spectrum-specific metadata",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "Malformed CSV reports an error and preserves valid dataset/results",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "All three plot modes render",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "Downloaded workflow reloads in a fresh Fit Lab session",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "Edit Input restores entered planning fields after navigation",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "Reset clears plan fields in the real browser",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "No uncaught browser JavaScript errors",
+    "status": "pass",
+    "detail": ""
+  },
+  {
+    "name": "Standalone Fit Lab chart works offline",
+    "status": "pass",
+    "detail": ""
+  }
+]

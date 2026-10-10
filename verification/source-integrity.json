@@ -1,0 +1,61 @@
+[
+  {
+    "file": "software/microfluidic-eis-agent/microfluidic_agent.py",
+    "sha256": "62a47c901188fe859f68bde0b7a55e25fd1b667d896190b45ab491144358be61",
+    "status": "unchanged from V2"
+  },
+  {
+    "file": "software/microfluidic-eis-agent/streamlit_app.py",
+    "sha256": "c46a2bbdd817175f9230c87e5ccc84a2b7f03986cc9837c94a1e0158035550b8",
+    "status": "Four display-name strings updated; functional code preserved",
+    "published_sha256": "98d5a9f59f18f82918f90185aef8ca5ca5607126dc81dd65dd24f07e73e4624b",
+    "display_replacements": [
+      {
+        "before": "page_title=\"V2 | Chip Design Workshop\"",
+        "after": "page_title=\"BioCircuit Studio | Chip Design Workshop\""
+      },
+      {
+        "before": "<div class=\"hero-kicker\">V2 \u00b7 Organoid Design and Impedance Analysis</div>",
+        "after": "<div class=\"hero-kicker\">Organ-on-Chip Planning and Impedance Analysis</div>"
+      },
+      {
+        "before": "<h1>Microfluidic EIS Design Workspace</h1>",
+        "after": "<h1>BioCircuit Studio</h1>"
+      },
+      {
+        "before": "render_top_nav(\"Workflow Draft \u00b7 V2\")",
+        "after": "render_top_nav(\"BioCircuit Studio \u00b7 Workflow Draft\")"
+      }
+    ]
+  },
+  {
+    "file": "software/microfluidic-eis-agent/workflow_context.py",
+    "sha256": "9bcb47bda7a0b9d126912ff6e323a7fca5e6fd15bc556eea3d55246f5ebd446e",
+    "status": "unchanged from V2"
+  },
+  {
+    "file": "software/microfluidic-eis-agent/requirements.txt",
+    "sha256": "86f6e6a2cdc829bb4f55025ae530ca5e29831336792c59222a51b340b379dffb",
+    "status": "unchanged from V2"
+  },
+  {
+    "file": "software/microfluidic-eis-agent/requirements-tested.txt",
+    "sha256": "3d4cd1b37d3c8970f8538caf7d0cf17697735417e82ecc92cdbc34e540853cb3",
+    "status": "unchanged from V2"
+  },
+  {
+    "file": "software/microfluidic-eis-agent/fitlab_assets/eis_simulator_v2.html",
+    "sha256": "034fb7c21c9b56bf3ce97f12c7c10c6cb1d96680222840a8a2b4c13c8785b8bb",
+    "status": "unchanged from V2"
+  },
+  {
+    "file": "software/microfluidic-eis-agent/fitlab_assets/chart.umd.js",
+    "sha256": "74401d738dd3e03ee5dfb3b6841210fe2c4ead8a960c4011ca4ba0b78a9fd8f3",
+    "status": "unchanged from V2"
+  },
+  {
+    "file": "software/microfluidic-eis-agent/fitlab_assets/Chart.js-LICENSE.md",
+    "sha256": "5a0877ad6d818529be4f33009d0942cdf7e2ed7656156f4aba7308459a546030",
+    "status": "unchanged from V2"
+  }
+]

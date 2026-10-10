@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-09",
+  "scope": "Software verification of the separate public package; no scientific validation",
+  "python": "3.13.5",
+  "python_tests": {
+    "passed": 4,
+    "failed": 0
+  },
+  "browser_checks": {
+    "passed": 18,
+    "failed": 0
+  },
+  "original_file_integrity": {
+    "unchanged": 8,
+    "changed": 0
+  },
+  "data": "Existing built-in demo arrays; no private laboratory CSVs or PDFs",
+  "api": "Stub response only; no live calls",
+  "fresh_install_tested": false,
+  "release_update": {
+    "date": "2026-10-10",
+    "display_name": "BioCircuit Studio",
+    "original_file_integrity": {
+      "unchanged": 7,
+      "display_only_changes": 1
+    },
+    "python_tests_passed": 4,
+    "browser_checks": "18 passed on October 9 before display-only changes"
+  }
+}
