@@ -1,0 +1,12 @@
+{
+  "name": "biocircuit-studio-verification",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Optional browser verification for the existing V2 application",
+  "scripts": {
+    "test:browser": "node verification/test_browser.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

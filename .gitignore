@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+logs/
+verification/output/
+node_modules/
+software/microfluidic-eis-agent/agent_user_options.json
+# Keep private laboratory files and exports out of this public package.
+*.csv
+*.xlsx
+*.xls
+*.pptx
+*.pdf
+!docs/technical_report.pdf
+eis_output/
+impedance/
+实验一/
+实验二/
